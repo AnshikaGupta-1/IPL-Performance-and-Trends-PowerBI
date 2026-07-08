@@ -64,6 +64,7 @@ The report consists of two analytical pages:
 - Power BI Desktop
 - Power Query
 - DAX
+- SQL
 - Data Modeling
 - Interactive Visualizations
 - KPI Cards
@@ -74,26 +75,14 @@ The report consists of two analytical pages:
 # Skills Demonstrated
 
 - Data Cleaning & Transformation
+- SQL Querying
 - Data Modeling
 - DAX Calculations
-- Dashboard Design
-- Business Intelligence Reporting
-- Interactive Data Visualization
 - KPI Development
-
----
-
-# Repository Contents
-
-```
-IPL-Analysis/
-│
-├── IPL_Analysis.pbix
-├── dashboard_page1.png
-├── dashboard_page2.png
-└── README.md
-```
-
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+- Data Visualization
+  
 ---
 
 ⭐ If you found this project interesting, consider giving the repository a star.
